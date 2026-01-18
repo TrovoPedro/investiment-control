@@ -11,7 +11,7 @@ This repository contains only the backend, exposing REST APIs that can be consum
 
 ## ⚙️ Technologies
 
-- Java 17+  
+- Java 21  
 - Spring Boot  
 - Spring Web (REST APIs)  
 - Spring Data JPA  
