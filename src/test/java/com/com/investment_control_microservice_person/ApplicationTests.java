@@ -1,4 +1,4 @@
-package com.investiment_control.investiment_control;
+package com.com.investment_control_microservice_person;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

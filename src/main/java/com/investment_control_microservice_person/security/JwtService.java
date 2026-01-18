@@ -1,4 +1,4 @@
-package com.investment.control.investment_control_microservice_person.security;
+package com.investment_control_microservice_person.security;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

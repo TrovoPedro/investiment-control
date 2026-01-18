@@ -1,6 +1,6 @@
-package com.investment.control.investment_control_microservice_person.security;
+package com.investment_control_microservice_person.security;
 
-import com.investment.control.investment_control_microservice_person.service.PersonDetailsService;
+import com.investment_control_microservice_person.service.PersonDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

@@ -1,4 +1,4 @@
-package com.investment.control.investment_control_microservice_person.dto;
+package com.investment_control_microservice_person.dto;
 
 import lombok.Getter;
 import lombok.Setter;

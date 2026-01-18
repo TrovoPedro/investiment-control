@@ -1,11 +1,10 @@
-package com.investment.control.investment_control_microservice_person.controller;
+package com.investment_control_microservice_person.controller;
 
-import com.investment.control.investment_control_microservice_person.dto.AuthRequest;
-import com.investment.control.investment_control_microservice_person.dto.AuthResponse;
-import com.investment.control.investment_control_microservice_person.dto.RegisterRequest;
-import com.investment.control.investment_control_microservice_person.security.JwtService;
-import com.investment.control.investment_control_microservice_person.service.PersonService;
-import lombok.Getter;
+import com.investment_control_microservice_person.dto.AuthRequest;
+import com.investment_control_microservice_person.dto.AuthResponse;
+import com.investment_control_microservice_person.dto.RegisterRequest;
+import com.investment_control_microservice_person.security.JwtService;
+import com.investment_control_microservice_person.service.PersonService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

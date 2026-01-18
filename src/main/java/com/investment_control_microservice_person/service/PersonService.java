@@ -1,8 +1,8 @@
-package com.investment.control.investment_control_microservice_person.service;
+package com.investment_control_microservice_person.service;
 
-import com.investment.control.investment_control_microservice_person.dto.RegisterRequest;
-import com.investment.control.investment_control_microservice_person.entity.Person;
-import com.investment.control.investment_control_microservice_person.repository.PersonRepository;
+import com.investment_control_microservice_person.dto.RegisterRequest;
+import com.investment_control_microservice_person.entity.Person;
+import com.investment_control_microservice_person.repository.PersonRepository;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 

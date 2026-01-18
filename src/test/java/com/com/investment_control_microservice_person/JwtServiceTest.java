@@ -1,6 +1,6 @@
-package com.investiment_control.investiment_control;
+package com.com.investment_control_microservice_person;
 
-import com.investment.control.investment_control_microservice_person.security.JwtService;
+import com.investment_control_microservice_person.security.JwtService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
