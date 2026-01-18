@@ -1,4 +1,4 @@
-package com.investment.control.investment_control_microservice_person.config;
+package com.investment_control_microservice_person.config;
 
 import io.jsonwebtoken.security.Keys;
 

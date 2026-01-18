@@ -1,4 +1,4 @@
-package com.investment.control.investment_control_microservice_person.entity;
+package com.investment_control_microservice_person.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
