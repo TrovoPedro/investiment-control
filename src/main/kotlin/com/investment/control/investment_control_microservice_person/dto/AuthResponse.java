@@ -1,0 +1,10 @@
+package com.investment.control.investment_control_microservice_person.dto;
+
+public class AuthResponse {
+    private String token;
+
+    public AuthResponse(String token) {
+        this.token = token;
+    }
+}
+
