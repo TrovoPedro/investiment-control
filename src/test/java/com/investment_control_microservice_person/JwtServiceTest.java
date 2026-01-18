@@ -1,4 +1,4 @@
-package com.com.investment_control_microservice_person;
+package com.investment_control_microservice_person;
 
 import com.investment_control_microservice_person.security.JwtService;
 import org.junit.jupiter.api.Test;
